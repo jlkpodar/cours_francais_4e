@@ -110,29 +110,36 @@ Planification de la séquence I : la nouvelle réaliste
 
 - 1h :
     - [**classeur et matériel**](../pedagogie_agile/classeur_materiel.md) ;
-    - [**mise en place des règles de fonctionnement de la classe coopérative et participative**](../pedagogie_agile/classe_cooperative_participative.md) ;
     - [**programme de l’année**](./../slides.pdf#Navigation19)
 
 - 1h : [**activité coopérative / tests diagnostics**](../pedagogie_agile/activite_cooperative_rentree_test_diag_ts_niv.md) : travail en groupe, connaissance de soi, lecture, expression orale et expression écrite. Distribution du texte de la séance 1 (incipit du *Petit Fût*).
-- 1h : séance 1 : le début d’une nouvelle réaliste (distribution du texte de la séance 2 : 2e partie du *Petit Fût*).
 
 4<sup>e</sup> 3 - Semaine 36
 ----------------------------
 
 - 1h : accueil ; vérifications administratives ; RI ; EDT.
-- 1h :
+- 1h : [**activité coopérative / tests diagnostics**](../pedagogie_agile/activite_cooperative_rentree_test_diag_ts_niv.md) : travail en groupe, connaissance de soi, lecture, expression orale et expression écrite. Distribution du texte de la séance 1 (incipit du *Petit Fût*).
     - [**classeur et matériel**](../pedagogie_agile/classeur_materiel.md) ;
-    - [**mise en place des règles de fonctionnement de la classe coopérative et participative**](../pedagogie_agile/classe_cooperative_participative.md) ;
     - [**programme de l’année**](./../slides.pdf#Navigation19)
 
 4<sup>e</sup> 2 - Semaine 37
 ----------------------------
 
+- 1h : [**mise en place des règles de fonctionnement de la classe coopérative et participative**](../pedagogie_agile/classe_cooperative_participative.md) ;
+
+- 1h : séance 1 : le début d’une nouvelle réaliste (distribution du texte de la séance 2 : 2e partie du *Petit Fût*).
+
 - 1h : séance 2 : la construction d’une nouvelle réaliste.
+
+- 1h : séance 3 : atelier grammosome
 
 4<sup>e</sup> 3 - Semaine 37
 ----------------------------
 
-- 1h : [**activité coopérative / tests diagnostics**](../pedagogie_agile/activite_cooperative_rentree_test_diag_ts_niv.md) : travail en groupe, connaissance de soi, lecture, expression orale et expression écrite. Distribution du texte de la séance 1 (incipit du *Petit Fût*).
+- 1h : [**mise en place des règles de fonctionnement de la classe coopérative et participative**](../pedagogie_agile/classe_cooperative_participative.md) ;
+
 - 1h : séance 1 : le début d’une nouvelle réaliste (distribution du texte de la séance 2 : 2e partie du *Petit Fût*).
+
 - 1h : séance 2 : la construction d’une nouvelle réaliste.
+
+- 1h : séance 3 : atelier grammosome

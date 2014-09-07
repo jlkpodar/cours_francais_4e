@@ -5,8 +5,8 @@ blank: true
 css: ./../../../pancake-style.css
 --->
 
-La nouvelle réaliste
-======================
+Lire une nouvelle réaliste
+==========================
 
 4 semaines = 4 x 4h = 16h
 
@@ -19,17 +19,20 @@ A faire pour la séquence 4e : La nouvelle réaliste
 
 - - - -
 
-Objectifs d’apprentissage
-=========================
+Objectifs généraux de la séquence "Lire une nouvelle réaliste"
+==============================================================
 
-- être capable de lire une nouvelle réaliste en prenant en compte les implicites
-- être capable d’écrire un début de nouvelle réaliste en respectant les codes du genre
+1. Lire : être capable de lire une nouvelle réaliste en prenant en compte les implicites.
+2. Écrire : être capable d’écrire un début de nouvelle réaliste en respectant les codes du genre, en particulier le registre réaliste.
 
-=
+Plus précisément :
 
-- savoir-faire : relier des informations entre elles et les relier à ses propres connaissances pour en inférer des informations implicites ; écrire un récit en posant un cadre réaliste, en choisissant un point de vue ;
-- attitudes : **à rédiger**
-- savoirs :
+- **savoir-faire** :
+    - relier des informations entre elles et les relier à ses propres connaissances pour en inférer des informations implicites ; 
+    - écrire un récit en posant un cadre réaliste, en choisissant un point de vue ;
+- **attitudes** :
+    - être attentif aux différences entre réalité, réalisme, vraisemblance ;
+- **savoirs** :
     - vocabulaire : nouvelle, roman, récit, narration ; cadre spatio-temporel ; réalisme ; naturalisme ;
     - genres et registres: la nouvelle réaliste ;
     - **[à compléter]**
@@ -47,38 +50,18 @@ Tâche complexe
 
 A réaliser à deux.
 
-Vous êtes écrivain et vous avez été frappé par un événement dans l’actualité, qui vous donne l’idée d’un roman. Vous rédigez le début de ce récit afin de le soumettre à votre éditeur et vous assurer qu'il sera intéressé, avant de continuer.
+Vous êtes écrivain et vous avez été frappé par un événement dans l’actualité, qui vous donne l’idée d’un roman. Vous rédigez le début de ce récit afin de le soumettre à votre éditeur et vous assurer qu'il sera acceptera de le publier, avant d’en continuer la rédaction.
 
 **Critères de réussite** : **[à compléter]**
 
-Séance 1 : le début d’une nouvelle réaliste (l'incipit)
-=======================================================
+Séance 1 : lire le début d’une nouvelle réaliste (l'incipit)
+============================================================
 
-Objectifs
----------
+[Objectif(s) et démarche généraux](./seances/lire_debut_nouvelle_realiste_incipit.md)
+-------------------------------------------------------------------------------------
 
-- être capable d’expliquer les fonctions d'un incipit dans une nouvelle réaliste ;
-- être capable d’identifier les informations données par l'incipit de la nouvelle de Maupassant, *Le Petit Fût*.
-
-Activités préparatoires
------------------------
-
-Lire le texte de la nouvelle.
-
-Activités en classe
--------------------
-
-Analyse du texte en binômes, par la double-molécule. Mise en commun des réponses. Rédaction d’un texte de synthèse.
-
-Bilan de la séance
-------------------
-
-Quelles sont les fonctions de l'incipit dans une nouvelle réaliste ?
-
-- donner des informations sur les personnages, le lieu et le temps ;
-- donner des informations sur la suite de l'histoire : genre du texte, éléments de l'intrigue, point de vue de l'auteur... ; 
-- donner à l'histoire un ancrage réaliste (noms de lieux réels, par exemple) ;
-- donner envie au lecteur de lire la suite de l'histoire.
+Objectif(s) et démarche spécifiques
+-----------------------------------
 
 Séance 2 : la construction d'une nouvelle réaliste
 ==================================================
